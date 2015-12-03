@@ -4,14 +4,21 @@
 }*/
 
 *{
-	font-family=serif,sans-serif,monospace;
+	font-family=Arial,Helvetica,sans-serif;
+	font-size=100%;
+	text-align=justify;
+	vertical-align=center;
+	color=#800000;
+	background-color=#000018;
+	text-indent=5%;
 }
 
-header {
-	font-size=120%
-	text-align=center;
-	vertical-align=center;
-	color=red;
-	background-color=black;
-	
+body{
+	background-attachment=fixed;
+}
+
+p.left{
+	width=60%;
+	height=auto;
+	position-left=5px;
 }

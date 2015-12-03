@@ -1,0 +1,20 @@
+<p>ceci est un exemple</p> ceci est un paragraphe
+
+
+<h1>ceci est un exemple</h1> ceci est un gros titre
+
+<h2>...</h2> ceci est un titre plus petit
+
+...
+
+et ça va jusqu'à h6
+
+
+<a href="ceci-est-une-url.fr">ceci est un texte</a> et tout ça c'est un lien cliquable 
+qui affiche "ceci est un texte" et mène à "ceci-est-une-url.fr"
+
+
+<br /> ça permet de faire un retour à la ligne
+
+
+et le reste j'ajouterai à mesure que vous posez des questions

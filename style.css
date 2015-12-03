@@ -18,7 +18,21 @@ body{
 }
 
 p.left{
-	width=60%;
+	width=55%;
 	height=auto;
-	position-left=5px;
+	left=5px;
 }
+
+p {
+	min-width=100px;
+	margin=5px;
+	padding=5px;
+	border-radius=10px;
+}
+
+p.right{
+	width=55%;
+	height=auto;
+	right=5px;
+}
+

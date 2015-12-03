@@ -1,0 +1,17 @@
+/*exemple1, exemple 2 {
+	attribut:valeur;
+	attribut:valeur;
+}*/
+
+*{
+	font-family=serif,sans-serif,monospace;
+}
+
+header {
+	font-size=120%
+	text-align=center;
+	vertical-align=center;
+	color=red;
+	background-color=black;
+	
+}

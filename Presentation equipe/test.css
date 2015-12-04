@@ -30,6 +30,5 @@
     -moz-user-select: none;
 }
 .row {
-    margin-left: -0.9375rem;
-    margin-right: -0.9375rem;
+    margin:auto;
 }

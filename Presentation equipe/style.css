@@ -9,14 +9,18 @@
 	text-align:justify;
 	vertical-align:center;
 	color:#800000;
-	background-color:#000018;
-	text-indent:5%;
+	<!--background-color:#000018;-->
+	<!--text-indent:5%;-->
 }
 
 body{
 	background-attachment:fixed;
+	<!--background-image:url(http://images6.alphacoders.com/316/316963.jpg);-->
+	background-position: top;
+	background-size:1300px 620px;
+	background-repeat: no-repeat;
+	background-color:black;
 }
-
 p.left{
 	width:55%;
 	height:auto;
@@ -45,7 +49,7 @@ p.right{
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
-h5,.text-muted,span{
+h5,.text-muted,span,.texte2{
     text-align: center;
 }
 .h2{
@@ -53,6 +57,10 @@ h5,.text-muted,span{
 	color:white;
 	font-size:150%;
 	padding-right:4%;
+}
+.text2{
+	color: #006600;
+	text-align:center;
 }	
 .text-muted {
     color: #818A91;
@@ -66,6 +74,7 @@ h5,.text-muted,span{
     width: 100px;
     margin-bottom: 20px;
     margin-top: 10px;
+	text-indent:5%;
 }
 
 div.row {
@@ -75,4 +84,32 @@ div.row {
 table.center,.text-center{
 	margin:auto;
 	text-align:center;
+}
+
+.contact{
+	background-image:url(https://s-media-cache-ak0.pinimg.com/736x/87/55/36/87553695ec8c4909406ff1622ff6b2d9.jpg);
+	background-size:  30% 82%;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	
+}
+.debut{
+	background-image:url(https://greysignal.com/wp-content/uploads/2014/01/hbeat.jpg);
+	background-size:  87% 80%;
+	background-position: top right;
+	background-repeat: no-repeat;
+	
+}
+.milieu{
+	background-image:url(http://hdlovewall.com/wallpaper/2015/07/broken-hearted-wallpaper-16-free-wallpaper.jpg);
+	background-size:  100% 100%;
+	background-position: bottom;
+	background-repeat: no-repeat;
+}
+.equipe{
+	
+	background-image:url(http://hdwallpaperbackgrounds.net/wp-content/uploads/2015/08/Mac-Glow-Keyboard-Wallpaper-Best-Desktop-Images.jpg);
+	background-size:  100% 70%;
+	background-position: center;
+	background-repeat: no-repeat;
 }
